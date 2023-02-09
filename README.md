@@ -12,3 +12,5 @@ Zero is for item and One is for clothing article.
 **RECEIVE**
 Within your client.py file, note that it currently prints to screen the data received from the server.
 Instead, send that data into a variable, then use that variable to display the information received by the client 
+
+![image](https://user-images.githubusercontent.com/97666032/217713391-5e8c512c-6658-4a04-b4d3-d2519238308b.png)
